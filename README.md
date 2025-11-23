@@ -5,11 +5,16 @@ https://ieeexplore.ieee.org/document/11022986
 
 This survey provides an extensive overview of recent advancements in sexism detection. 
 
+[Highlights]
+
 We present details of the various **resources** used in this field and **methodologies** applied to the task, covering **different languages, modalities, models, and approaches**. 
 
-Moreover, we examine the specific **challenges** these models encounter in accurately identifying and classifying sexism. 
-Additionally, we highlight areas that require further research and propose **potential new directions** for future exploration in the domain of sexism detection. 
-Through this comprehensive exploration, we strive to contribute to the advancement of **interdisciplinary research**, fostering a collective effort to combat sexism in its multifaceted manifestations.
+Examine the specific **challenges** these models encounter in accurately identifying and classifying sexism. 
+
+Highlight areas that require further research and propose **potential new directions** for future exploration in the domain of sexism detection. 
+
+Contribute to the advancement of **interdisciplinary research**, fostering a collective effort to combat sexism.
+
 
 ---
 
